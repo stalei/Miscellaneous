@@ -1,5 +1,6 @@
 #  © Shahram Talei @ 2019 The University of Alabama
-
+# yt is required:
+# https://github.com/yt-project
 
 import yt
 import numpy as np
