@@ -81,7 +81,7 @@ def _IsContaminated(halo,ds, Rv):#snap):
 	print(rContamination)
 	#return count
 
-# Hot to run?
+# How to run?
 # python contamination.py snap_264
 # snapshot is in gadget binary format. 
 # Snapshot is zoom-in file produced by music initial condition. 
